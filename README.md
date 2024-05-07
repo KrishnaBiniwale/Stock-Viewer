@@ -6,3 +6,4 @@ Users can search for a stock based on its stock ticker. After selecting a stock,
 # AI
 Furthermore, users can also utilize a fully-trained AI model based on all the stocks in the database to predict the values for the future price of a stock.
 The estimated stock price will depend on how far the date is in the future. Dates that are further in the future have a lower accuracy.
+Users can also utilize projections based on an interval in the stock price rather than its entire history to get more accurate results.
